@@ -1,4 +1,4 @@
-# 第一章 持续交付2.0 #
+# 1.0 持续交付2.0 #
 
 VUCA是volatility（易变性）、uncertainty（不确定性）、complexity（复杂性）、ambiguity（模糊性）的缩写。以前是用来形容新常态的商业形式的，也是软件开发交付的特征
 
