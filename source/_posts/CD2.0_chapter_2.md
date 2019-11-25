@@ -1,3 +1,13 @@
+---
+title: 第二章 价值探索环
+date: 2019-09-07 19:00:00
+author: Hiawatha
+cover: true
+categories: CD
+tags:
+  - Hexo
+  - hexo-theme-matery
+---
 # 第二章 价值探索环
 关键词：“如何发现和识别客户的真正需求”
 ## 2.1 探索环的意义
