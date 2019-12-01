@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/2019/11/19/wen-gu-zhi-xin-ji-suan-ji-ji-chu-yi/"/>
+      <url>/2019/11/19/wen-gu-zhi-xin-ji-suan-ji-ji-chu-yi/</url>
+      
+        <content type="html"><![CDATA[<p>#温故知新-计算机基础（一）<br>##计算机发展历史<br>##计算机分类</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2019/11/19/nai-you-mo-gu-tang/"/>
+      <url>/2019/11/19/nai-you-mo-gu-tang/</url>
+      
+        <content type="html"><![CDATA[<p>#奶油蘑菇汤</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/11/19/hello-world/"/>
+      <url>/2019/11/19/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第四章 持续交付2.0的组织文化</title>
+      <link href="/2019/09/19/cd2.0-chapter-4/"/>
+      <url>/2019/09/19/cd2.0-chapter-4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第四章-持续交付2-0的组织文化"><a href="#第四章-持续交付2-0的组织文化" class="headerlink" title="第四章 持续交付2.0的组织文化"></a>第四章 持续交付2.0的组织文化</h1><p>“持续交付2.0双环模型”涉及企业内多个部门与角色的合作，而且其目标是缩短端到端（即从idea到idea）的闭环周期，这必然会影响内部合作方式和流程。作为企业领导者，必须作为变革的领导者，建立与之适应的企业文化  </p><h2 id="4-1-安全、信任与持续改善"><a href="#4-1-安全、信任与持续改善" class="headerlink" title="4.1 安全、信任与持续改善"></a>4.1 安全、信任与持续改善</h2><p>“持续探索”和“快速验证”，必然伴随着多次的失败，失败会令人产生挫败感和不安全感。而学习与成长也通常发生在失败之后。这就要求组织必须建立“安全、互相信任和持续改善”的组织文化。</p><h3 id="4-1-1-失败是安全的"><a href="#4-1-1-失败是安全的" class="headerlink" title="4.1.1 失败是安全的"></a>4.1.1 失败是安全的</h3><p>一个组织对待失败的态度至关重要，无论试验中的失败，还是组织改进中的失败。发现失败后，我们不能将结果用于评判提出这个方案的人，而是应该着眼于问题本身。让团队成员敢于提出丰富的想法。<br>在一个高度不确定的环境中，没有人能够保证自己的决策不会出错。如果无法让组织成员感到“失败是安全的”，那么组织成员的行为就会倾向于避免犯错，各扫门前雪，逃避责任，缺少合作。</p><h3 id="4-1-2-相互信任"><a href="#4-1-2-相互信任" class="headerlink" title="4.1.2 相互信任"></a>4.1.2 相互信任</h3><p>相互信任是高效合作的基础，也是组织凝聚力和成员士气的基础。  </p><h3 id="4-1-3-持续改善"><a href="#4-1-3-持续改善" class="headerlink" title="4.1.3 持续改善"></a>4.1.3 持续改善</h3><p>持续改善文化的特点是“人人参与”和“时时改善”。<br>人人参与：持续改善应当是组织中所有人<br>时时改善：改善不应在特定时间发生，例如事故之后</p><h2 id="4-2-文化塑造四步法"><a href="#4-2-文化塑造四步法" class="headerlink" title="4.2 文化塑造四步法"></a>4.2 文化塑造四步法</h2><p>文化是无型形的，很难改变。它在影响组织成员的同时也会受组织成员的行为影响而发生变化。  </p><h3 id="4-2-1-行为决定文化"><a href="#4-2-1-行为决定文化" class="headerlink" title="4.2.1 行为决定文化"></a>4.2.1 行为决定文化</h3><p>Facebook：“没什么问题是别人的问题”<br>安灯（andon）:一线生产人员在发现解决不了的问题时有权利停止整个流水线的工作来解决问题。<br>组织文化是一系列行为结果的展现，体现在人与人之间的日常工作交互中，因此我们无法直接改变“组织文化”。但是，我们通过培训企业员工具备必要的能力，同时规范员工的做事方式，而达到塑造企业文化的目的。</p><h3 id="4-2-2-谷歌工程师质量文化"><a href="#4-2-2-谷歌工程师质量文化" class="headerlink" title="4.2.2 谷歌工程师质量文化"></a>4.2.2 谷歌工程师质量文化</h3><p>丰田的“四步法”实例化 by Google：<br>第一步 <strong>定义我们想要做的事情</strong></p><ul><li>提高代码质量，减少生产问题，减少手工测试工作量，快速发布软件。  </li></ul><p>第二步 <strong>定义好我们期望的做事方法或方式</strong>  </p><ul><li>开发团队编写自动化测试</li><li>主动运行自动化测试用例</li><li>做代码评审（code review）</li></ul><p>第三步 <strong>提供相应的培训，使员工具备完成其工作的能力</strong>  </p><ul><li>在公司范围内组织代码设计与自动化测试培训。</li><li>为每个团队指派自动化测试教练，帮助团队提高自动化测试技能</li></ul><p>第四步 <strong>设计一些机制来强化我们所鼓励的那些行为</strong>   </p><ul><li>建立团队测试认证机制（test certified mechanism），共分3个大级别，12个子级，用于评估每个软件产品团队的测试成熟度。通过每个季度各级别上的团队数量分布，来评估自动化测试文化在公司内部的进展程度。</li><li>建立自动化测试组（test group）和测试教练组（test mentor）帮助团队提升自动化测试能力。</li><li>建立代码评审资质证书</li><li>代码和入版本仓库之前强制做代码评审。</li><li>代码评审之前，必须运行自动化测试用例，并提交报告给代码评审者。  </li></ul><p>这四步并不容易，谷歌花了4年。 </p><h3 id="4-2-3-Etsy的持续验证文化"><a href="#4-2-3-Etsy的持续验证文化" class="headerlink" title="4.2.3 Etsy的持续验证文化"></a>4.2.3 Etsy的持续验证文化</h3><h2 id="4-3-行动原则"><a href="#4-3-行动原则" class="headerlink" title="4.3 行动原则"></a>4.3 行动原则</h2><p>以“价值导向，快速验证，持续学习”作为行动原则</p><h3 id="4-3-1-价值导向"><a href="#4-3-1-价值导向" class="headerlink" title="4.3.1 价值导向"></a>4.3.1 价值导向</h3><h3 id="4-3-2-快速验证"><a href="#4-3-2-快速验证" class="headerlink" title="4.3.2 快速验证"></a>4.3.2 快速验证</h3><h3 id="4-3-3-持续学习"><a href="#4-3-3-持续学习" class="headerlink" title="4.3.3 持续学习"></a>4.3.3 持续学习</h3><ol><li>定期回顾<br>回顾的前提，需要团队的信任，“无论我们发现什么问题，我们必须懂得并坚信：每个人根据他当时所知、他所拥有的技能和可得到的资源，在当时限定的环境中，已经尽其最大努力”</li><li>复盘机制<br>通过复盘，目的是避免问题重复出现<br>（1） 放松心态，开放共享。<br>（2）分清“因”和“果”。<br>（3）五问法，鼓励多问“为什么”<br>（4）发挥群体智慧<br>（5）不要停于表面，而寻找深层次原因<br>（6）对答案进行求证 </li></ol><blockquote><p>系统思考的实际应用：一个人或是一个团队的能力是有限的，并且随着任务数量的增长，实际产出效率会先增长后降低。项目开始之初的规划要尽量准确和详细准确，任务过多和过少都会导致项目组和人员实际产出效率降低。</p></blockquote><h2 id="4-4-度量原则"><a href="#4-4-度量原则" class="headerlink" title="4.4 度量原则"></a>4.4 度量原则</h2><p>“不能度量就无法改进”</p><h3 id="4-4-1-度量指标的4类属性"><a href="#4-4-1-度量指标的4类属性" class="headerlink" title="4.4.1 度量指标的4类属性"></a>4.4.1 度量指标的4类属性</h3><ol><li>引领性指标与滞后性指标<br>引领性指标是指那些对达成目标有重要作用的指标。通常，一个好的引领性指标有以下两个基本特点：第一，它具有预见性；第二，团队成员可以极大的影响这些指标。<br>滞后性指标是指那些为了达成最重要目标的跟踪性指标，如销售收入、利润率、市场份额、客户满意度等研究分析。当得到这些结果的时候，导致这些结果的事情早已经结束，你得到的都是历史性结果数据。<br>企业的终极后验性指标是客户价值，相对于这一滞后性指标来说，其他指标均可认为是引领性指标。</li><li>可观测性指标和可行动性指标<br>可观测性指标是指可以被客观检测到，但无法通过直接行动来改变的指标。<br>可行动性指标是指在能力可触达范围内，通过团队努力，可以设法直接改变的指标。<br>“DevOps状态报告2017”指出，衡量IT高绩效组织的<strong>4个度量项</strong>分别是<br>发布频率：部署并运行软件于生产环境的频率<br>发布周期：代码提交到发布之间的时间周期<br>MTBF/MTTR：MTBF(Mean Time Between Failure)平均失效间隔。就是新的产品在规定的工作环境下从开始工作到出现第一个故障的时间的平均值。<br>MTTR(Mean Time To Repair)平均恢复时间，指从故障出现到恢复之间的时间周期<br>吞吐量：在给定时间段内系统完成的交付数量。<h3 id="4-4-2-度量目标是改善"><a href="#4-4-2-度量目标是改善" class="headerlink" title="4.4.2 度量目标是改善"></a>4.4.2 度量目标是改善</h3><h2 id="4-5-“改善套路”进行持续改进"><a href="#4-5-“改善套路”进行持续改进" class="headerlink" title="4.5 “改善套路”进行持续改进"></a>4.5 “改善套路”进行持续改进</h2>如何切换至“持续交付2.0的能力”  </li></ol><ul><li>第一阶段：明确方向。管理者需要明白，企业必须始终以愿景为工作目标，并持续改进</li><li>第二阶段：掌握当前状态。团队状态，获得事实与数据，才能充分认识自己，以对下一目标进行合理的描述</li><li>第三阶段：定义下一目标状态。目标状态就是确定团队希望达到的状态，设置期望达到该状态的日期，并定义可衡量的指标项。</li><li>第四阶段：迭代改进。遵循戴明环，迭代实验，发现，实施，评估并改善方案，直到达成目标状态。戴明环，又叫PDCA循环，P（plan）D（Do）C（Check）A（Action）。这是提高产品质量，改善企业经营管理的重要方法，是质量保证体系运转的基本方法。<br>具体做法需要根据实际项目，发现线索。</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> CD </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CI/CD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第三章 快速验证环</title>
+      <link href="/2019/09/12/cd2.0-chapter-3/"/>
+      <url>/2019/09/12/cd2.0-chapter-3/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第三章-快速验证环"><a href="#第三章-快速验证环" class="headerlink" title="第三章 快速验证环"></a>第三章 快速验证环</h1><h2 id="3-1-验证环的目标"><a href="#3-1-验证环的目标" class="headerlink" title="3.1 验证环的目标"></a>3.1 验证环的目标</h2><p>借助各种方法与工具，让质量可靠的解决方案以最快速度到达客户手中，从而收集并分析最真实的反馈。<br><strong>以可靠的质量和最快的速度，将价值探索环得出的最小解决方案，从语言描述转换为可执行的软件包，并将其部署到生产环境中运行，准确收集相关数据并呈现，以便团队根据数据做出判断和决策</strong></p><h2 id="3-2-验证环的4个关键环节"><a href="#3-2-验证环的4个关键环节" class="headerlink" title="3.2 验证环的4个关键环节"></a>3.2 验证环的4个关键环节</h2><h3 id="3-2-1-构建"><a href="#3-2-1-构建" class="headerlink" title="3.2.1 构建"></a>3.2.1 构建</h3><p>根据非数字化描述转换为可运行的软件包<br>任务分解，持续验证</p><h3 id="3-2-2-运行"><a href="#3-2-2-运行" class="headerlink" title="3.2.2 运行"></a>3.2.2 运行</h3><p>将达到质量要求的软件包部署到生产环境或交付到用户手中，并使之为用户提供服务。这个过程尽量让用户无感知，尽量自动化  </p><h3 id="3-2-3-监测"><a href="#3-2-3-监测" class="headerlink" title="3.2.3 监测"></a>3.2.3 监测</h3><p>收集生产系统中生产的数据，对系统进行监控，确保其正常运行。同时将业务数据以适当的形式及时呈现出来。</p><h3 id="3-2-4-决策"><a href="#3-2-4-决策" class="headerlink" title="3.2.4 决策"></a>3.2.4 决策</h3><p>根据数据，分析后决定是否符合最初预期，进而决定是否改变方向</p><h2 id="3-3-工作原则"><a href="#3-3-工作原则" class="headerlink" title="3.3 工作原则"></a>3.3 工作原则</h2><p>提升效率，消除浪费</p><h3 id="3-3-1-质量内建"><a href="#3-3-1-质量内建" class="headerlink" title="3.3.1 质量内建"></a>3.3.1 质量内建</h3><p>“发现错误的时间要尽可能接近引入该错误的时间”，发现越晚，影响越严重<br>戴明博士，质量管理“十四要点”是全面质量管理的重要理论基础<br><strong>质量内建</strong>（built quality in）就是从生产过程的第一个环节开始，就要注重产出物的质量，并且在每个环节中都要开展质量保障活动，消除因质量问题导致的返工及次品率上升，以此降低最终的质量风险，保障进度。</p><h3 id="3-3-2-消除等待"><a href="#3-3-2-消除等待" class="headerlink" title="3.3.2 消除等待"></a>3.3.2 消除等待</h3><p>等待即“浪费”，消除等待，提升效率</p><ol><li>通过“拉动”让价值流动起来<br>管理者的关注点需要从“人”移动到“物”。解决人力瓶颈，下游环节（测试）拉动上游（开发）  </li><li>任务自助化<br>减少“专家”型人才被打扰的次数，在基础平台和工具上多投入，“做好一件事（一键式）”<br>例如搭建微服务测试环境<h3 id="3-3-3-重复事物自动化"><a href="#3-3-3-重复事物自动化" class="headerlink" title="3.3.3 重复事物自动化"></a>3.3.3 重复事物自动化</h3>例如：搭建测试环境、回归测试、应用部署与发布等。避免不必要的人为操作失误，才能使其具有可持续性<h3 id="3-3-4-监测一切"><a href="#3-3-4-监测一切" class="headerlink" title="3.3.4 监测一切"></a>3.3.4 监测一切</h3>检测两点：</li><li>软件是否正常运行，发现异常及时采取措施</li><li>及时得到有效业务数据，验证探索环提出的假设</li></ol><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> CD </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CI/CD </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> hexo-theme-matery </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二章 价值探索环</title>
+      <link href="/2019/09/07/cd2.0-chapter-2/"/>
+      <url>/2019/09/07/cd2.0-chapter-2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第二章-价值探索环"><a href="#第二章-价值探索环" class="headerlink" title="第二章 价值探索环"></a>第二章 价值探索环</h1><p>关键词：“如何发现和识别客户的真正需求”</p><h2 id="2-1-探索环的意义"><a href="#2-1-探索环的意义" class="headerlink" title="2.1 探索环的意义"></a>2.1 探索环的意义</h2><p>确认需求的三个假设：  </p><ol><li>用户假设，提供的产品或服务是针对某类用户人群的需求的需求的假设</li><li>问题假设，目标用户群之所以有这种需求，是因为他们存在某些痛点（或问题）需要解决的假设</li><li>解决方案假设，我们提供的解决方案可以解决这些痛点和问题，而且比其他现存的解决方案都有效和高效  </li></ol><h2 id="2-2-探索环的4个关键环节"><a href="#2-2-探索环的4个关键环节" class="headerlink" title="2.2 探索环的4个关键环节"></a>2.2 探索环的4个关键环节</h2><p>关键词： “理解真实需求、判断优先级、在评估需求的过程”<br>（1）<strong>提问</strong><br>通过有针对性的提问与讨论，找出团队期望达成的业务目标或者希望解决的业务本质问题。不仅仅是找到“实现什么”以及“如何实现”，更是要了解客户需求背后要解决的真正问题“为什么要实现”，以便规划更加方便的快捷的验证方案或解决方案<br><em>实例：设想一下，我们正在举办一个为期一天的小型聚会，午休期间有个听众想要一杯咖啡。作为主办方，为了更好地服务客户，我们会询问“星巴克还是瑞幸？”“需要那种口味？”“冷热？大杯还是小杯？”“什么时候要？”。但其实客户的想法是希望下午听讲的时候不会犯困。如果我们知道客户真正的诉求，我们或许有更多更好地解决办法</em><br>因此在接到任务时应该更加深入的了解所要解决的问题，了解其背后真正的原因，不要过早的进入解决方案环节<br>（2）<strong>锚定</strong><br>“锚定”是设定目标和目标分解的讨论过程，其目的是确定要达成的目标及可以衡量它的指标，并能够指导后续的共创与精炼活动。通过描述目标的状态，确定衡量指标<br>（3）<strong>共创</strong><br>共创就是指：当我们制定了想要达到的目标后，团队为设法验证或达成目标而找出多种可行性解决方案。多提出带有量化指示器的解决方案，解决具体的问题<br>①量化式影响地图<br>目标–&gt;<strong>角色</strong>–&gt;<strong>影响</strong>–&gt;<strong>方案</strong>–&gt;<strong>量化</strong><br>②用户旅行地图<br>根据用户与产品之间的互动，按流程分解出来，在不同的节点，制定方案<br>（4）<strong>精炼</strong><br>精炼环节就是对共创环节中得出的众多方案进项评估，从中筛选出最小可行性方案的过程  </p><h2 id="2-3-工作原则"><a href="#2-3-工作原则" class="headerlink" title="2.3 工作原则"></a>2.3 工作原则</h2><h3 id="2-3-1-分解并快速试错"><a href="#2-3-1-分解并快速试错" class="headerlink" title="2.3.1 分解并快速试错"></a>2.3.1 分解并快速试错</h3><h3 id="2-3-2-一次只验证一点"><a href="#2-3-2-一次只验证一点" class="headerlink" title="2.3.2 一次只验证一点"></a>2.3.2 一次只验证一点</h3><p>把大的工程分成小模块</p><h3 id="2-3-3-允许失败"><a href="#2-3-3-允许失败" class="headerlink" title="2.3.3 允许失败"></a>2.3.3 允许失败</h3><p>失败的方案并不是一无是处，你至少可以通过失败的方案清楚用户不喜欢什么，从而剔除这种因素</p><h2 id="2-4-共创与精炼的常用方法"><a href="#2-4-共创与精炼的常用方法" class="headerlink" title="2.4 共创与精炼的常用方法"></a>2.4 共创与精炼的常用方法</h2><h3 id="2-4-1-装饰窗方法"><a href="#2-4-1-装饰窗方法" class="headerlink" title="2.4.1 装饰窗方法"></a>2.4.1 装饰窗方法</h3><p>装饰窗（Decorative Window）:预留一个“入口”，但实际并没有真正实现其功能。目的是利用最小成本来验证用户是否喜欢某一个功能，以及其紧迫程度，为后续是否继续研发提供数据支持<br>例如：添加一个入口，可以收集想要此功能的用户信息</p><h3 id="2-4-2-最小可行特性法"><a href="#2-4-2-最小可行特性法" class="headerlink" title="2.4.2 最小可行特性法"></a>2.4.2 最小可行特性法</h3><p>在不做大量全面完成需求的情况下，只完成最基本的需求，进一步验证  </p><h3 id="2-4-3-特区法"><a href="#2-4-3-特区法" class="headerlink" title="2.4.3 特区法"></a>2.4.3 特区法</h3><p>列如共享汽车，现在某一个城市小面积实现</p><h3 id="2-4-4-定向探索法"><a href="#2-4-4-定向探索法" class="headerlink" title="2.4.4 定向探索法"></a>2.4.4 定向探索法</h3><p>根据不同的用户设计不同的问卷</p><h3 id="2-4-5-稻草人法"><a href="#2-4-5-稻草人法" class="headerlink" title="2.4.5 稻草人法"></a>2.4.5 稻草人法</h3><h3 id="2-4-6-最小可行产品法"><a href="#2-4-6-最小可行产品法" class="headerlink" title="2.4.6 最小可行产品法"></a>2.4.6 最小可行产品法</h3><h2 id="2-5-实施注意事项"><a href="#2-5-实施注意事项" class="headerlink" title="2.5 实施注意事项"></a>2.5 实施注意事项</h2><ol><li>多角色参与探索</li><li>存在往复过程</li><li>风险不是等价的</li><li>上帝视角</li><li>唯数字论<br>思考未来发展趋势，提出一些我们没有完全把握的反向，可以尝试  </li><li>蛇形效应<br>根据在第一个需求还没有彻底完成前，发现了另外一种方法，或者客户方案转换</li></ol><h2 id="2-6-小结"><a href="#2-6-小结" class="headerlink" title="2.6 小结"></a>2.6 小结</h2><p>关键词：“最小可行方案”</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> CD </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> hexo-theme-matery </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一章 持续交付2.0</title>
+      <link href="/2019/09/05/cd2.0-chapter-1/"/>
+      <url>/2019/09/05/cd2.0-chapter-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一章-持续交付2-0"><a href="#第一章-持续交付2-0" class="headerlink" title="第一章 持续交付2.0"></a>第一章 持续交付2.0</h1><p>VUCA是volatility（易变性）、uncertainty（不确定性）、complexity（复杂性）、ambiguity（模糊性）的缩写。以前是用来形容新常态的商业形式的，也是软件开发交付的特征</p><h2 id="1-1-软件工程发展概览"><a href="#1-1-软件工程发展概览" class="headerlink" title="1.1 软件工程发展概览"></a>1.1 软件工程发展概览</h2><h3 id="1-1-1-瀑布软件开发"><a href="#1-1-1-瀑布软件开发" class="headerlink" title="1.1.1 瀑布软件开发"></a>1.1.1 瀑布软件开发</h3><p> 特点： 直线串行开发，开发时间长，交付时间慢</p><h3 id="1-1-2-敏捷软件开发方法"><a href="#1-1-2-敏捷软件开发方法" class="headerlink" title="1.1.2 敏捷软件开发方法"></a>1.1.2 敏捷软件开发方法</h3><p> 敏捷宣言：<br>敏捷宣言，也叫做敏捷软件开发宣言，正式宣布了对四种核心价值和十二条原则，可以指导迭代的以人为中心的软件开发方法。</p><p>敏捷宣言强调的敏捷软件开发的四个核心价值是：<br>个体和互动高于流程和工具<br>工作的软件高于详尽的文档<br>客户合作高于合同谈判<br>响应变化高于遵循计划<br>( 注：敏捷开发的第一条价值观就是“ 以人为本”，强调“ 个体（人）” 及“ 个体” 间的沟通与协作在软件开发过程中的重要性。这个顺序不是偶然而为之的，敏捷开发将重视个体潜能的激发和团队的高效协作作为其所推崇的第一价值观。</p><p>敏捷开发的第二条价值观就是“ 目标导向”。同其他众多管理理论和模型一样，敏捷开发认同目标导向是成功的关键，因为没有目标也就无所谓成功。敏捷开发的价值观中清楚地阐明，软件开发的目标是“ 可工作的软件”，而不是面面俱到的文档。而遗憾的是，很多软件项目已经在纷繁的文档之中迷失了自己的目标。</p><p>敏捷开发的第三条价值观就是“ 客户为先”。虽然敏捷开发强调的第一价值观是“ 以人为本”，但敏捷宣言的缔造者们并没有忘记客户，相反他们真正的理解客户的需求、懂得如何与客户合作。敏捷价值观里强调的“ 客户为先”即不是简单地把客户当作“ 上帝”、刻板的推崇“ 客户至上”，客户要求什么、我们就做什么；也不是把客户当作“ 谈判桌上的对手” 甚至“ 敌人”，去斗智斗勇。敏捷价值观把客户当成了合作者和伙伴，把自己的使命定位为“ “ 帮助客户取得竞争优势”。</p><p>敏捷开发的第四条价值观就是“ 拥抱变化”。人们常说“ 世界上唯一不变的就是变化”，大多数人也相信事实确实如此。而以往很多的软件项目却忽视了这一点，或者更准确地说是他们不愿意“ 正视”。他们总是试图用详尽的计划去预先穷举这些变化，然后又试图通过严格遵循计划来控制变化的发生，而结果往往是被不断涌现的变化击垮。敏捷开发价值观中承认变化是软件开发的一部分、并相信正是客户在不断变化其需求的过程中明晰了其真正的需要。因而敏捷开发欢迎变化、拥抱变化，并可坦然应对变化，正是这些变化为客户和项目带来了价值。</p><p>最后，还应记住敏捷宣言中的最后一句话：“ 尽管右项有其价值，我们更重视左项的价值”—敏捷宣言并未否定或贬损“ 右项” 的价值，在敏捷开发的价值观中承认“ 流程和工具”、“ 详尽的文档”、“ 合同谈判” 以及“ 遵循计划” 的重要性，只是两相比较，“ 更重视左项的价值”。）</p><p>敏捷选择提出的12条原则已经应用于管理大量的业务以及与IT相关项目中，包括商业智能（BI）。12原则包括：<br>1.通过早期和连续型的高价值工作交付满足“客户”。<br>2.大工作分成可以迅速完成的较小组成部门。<br>3.识别最好的工作是从自我组织的团队中出现的。<br>4.为积极员工提供他们需要的环境和支持，并相信他们可以完成工作。<br>5.创建可以改善可持续工作的流程。<br>6.维持完整工作的不变的步调。<br>7.欢迎改变的需求，即使是在项目后期。<br>8.在项目期间每天与项目团队和业务所有者开会。<br>9.在定期修正期，让团队反映如何能高效，然后进行相应地行为调整。<br>10.通过完车的工作量计量工作进度。<br>11.不断地追求完善。<br>12.利用调整获得竞争优势  </p><p>敏捷开发的主要特点<br>与传统开发方法相比，在敏捷开发的整个过程中，有以下几个主要的特点：</p><p>（1）敏捷开发的过程有着更强的适应性而不是预设性，从敏捷宣言的第四条响应变化高于预设计划便可以看出来。因为软件开发过程的本身的不可预见性，很多用户在项目开始时不可能对于这个项目有着一个完整而明确的预期。很多对软件的预期都在后期的修改和完善过程中产生。因此高适应性显然更加符合软件工程开发的实际。而敏捷开发实现其适应性的方式主要在于，第一，缩短把项目提交给用户的周期；第二，增加用户，业务人员，开发人员这三者之间的交流；第三，通过减少重构的成本以增加软件的适应性。</p><p>（2）敏捷开发的过程中，更加的注重人的因素。在传统软件工程中，个人的因素很少的被考虑到分工中，每个个体都是只是整个代码开发机器的一个小小的螺丝钉，个人的意志和创造力很大程度上的被抹去为了更好的为集体服务。而在敏捷开发过程中，每个个人的潜力被充分的考虑，应用什么技术很大程度上直接由在第一线开发的技术人员决定；每个人的特点和创造力都可以充分地发挥，这样开发出来的软件更加的具有生命力，因为他融入了开发者的心血和创意，开发者不再是进行机械的乏味的堆砌，而是创造属于自己的艺术品，这样的条件下产生的代码必然在质量上更占优势。</p><p>（3）在敏捷开发的过程中，整个项目是测试驱动的而不是文档驱动的。不仅每个模块有着自己的相应的测试单元，开发人员在开发自己的模块的过程中必须保证自己所开发的模块可以通过这一单元的测试，并且集成测试贯穿了整个开发过程的始终。集成测试每天会进行十几次甚至几十次，而不是像传统方法一样只有当各个模块的编码都结束了之后再进行联合调试。这样，在软件开发的进程中每一点改动所引起的问题都容嘉容易暴露出来，使得更加容易在错误刚刚产生的时候发现问题从而解决问题。这样就避免了在最后整个系统完成时错误隐藏的太深给调试造成极大的困难。</p><p>敏捷开发与传统开发方法的比较<br>优势<br>敏捷开发的高适应性，以人为本的特性，和轻量型的开发方法即以测试为驱动取代了以文档为驱动，这三个主要的特点，也就是敏捷开发相对与传统开发方式的主要有点。因为它更加的灵活并且更加充分的利用了每个开发者的优势，调动了每个人的工作热情。</p><p>敏捷确实是项目进入实质开发迭代阶段，用户很快可以看到一个基线架构版的产品。敏捷注重市场快速反应能力，也即具体应对能力，客户前期满意度高。</p><p>劣势<br>与传统开发方式相比，敏捷开发的最主要的劣势在于敏捷开发欢迎新的需求，而在每次新的需求产生时都可能引起整个系统的大幅度的修改。因为开发者在开发上一个版本的时候，完全没有考虑以后的优化将要如何进行。这样的开发方式实际的软件开发过程中，并不一定总是有效的。</p><p>而另一个方面，敏捷开发因为缺乏很多在敏捷开发中被认为“不重要”的文档，这样在一个大型项目比如一个操作系统开发的时候，由于其项目周期很长，所以很难保证开发的人员不更换，而没有文档就会造成在交接的过程中出现很大的困难。</p><p>敏捷注重人员的沟通，忽略文档的重要性，若项目人员流动大太，又给维护带来不少难度，特别项目存在新手比较多时，老员工比较累。</p><p>需要项目中存在经验较强的人，要不大项目中容易遇到瓶颈问题。</p><h3 id="1-1-3-DevOps运动"><a href="#1-1-3-DevOps运动" class="headerlink" title="1.1.3 DevOps运动"></a>1.1.3 DevOps运动</h3><p>关键词：“一切皆代码，自动化一切，部署流水线，尽早反馈”<br>DevOps并非一个标准、一种模式或者一套固定方法，而是一种IT组织管理的发展趋势，也就是说通过多种方式打破IT职能部门之间的隔阂，改变IT组织内部的原有合作模式，使之更紧密结合，从而促使业务迭代更快。这种发展趋势将会引起IT组织内部原有角色与分工的变化，甚至范围更大，会影响到相关的业务组织。对互联网公司来说，其软件产品对业务发展起到及其关键的作用，业务结果与IT效能强关联，因此顺应这一发展趋势的动力更加明显和迫切  </p><p>既然<strong>DevOps是一种组织管理的发展趋势</strong>，那么他就是IT领域普适的。对于不同行业，不同企业中的IT组织，需要根据其所在的行业特点以及企业实际状况进行一系列管理定制。</p><h3 id="1-1-4-持续交付1-0"><a href="#1-1-4-持续交付1-0" class="headerlink" title="1.1.4 持续交付1.0"></a>1.1.4 持续交付1.0</h3><p>关键词：“The Deployment Production Line”,“部署生产线”<br><strong>自动化部署指导原则</strong><br>（1） 每个构建阶段都应该交付可工作的软件，即对于中间产物的生成（例如搭建软件框架）不应该是个单独的阶段。<br>（2） 用同一个制品（artifacts）向不同类型的环境部署，即将其与运行时配置分开管理。<br>（3） 自动化测试和部署，即根据测试目的，分成几个独立的质量关卡。<br>（4） 这个部署生产线设计也应该随着你的应用程序的发展而不断演进。</p><h2 id="1-2-持续交付2-0"><a href="#1-2-持续交付2-0" class="headerlink" title="1.2 持续交付2.0"></a>1.2 持续交付2.0</h2><p>关键词：通过快速的多次交付运行从市场获取反馈来改进开发流程，和需求；“<strong>强调业务为导向</strong>”</p><h3 id="1-2-1-精益思想"><a href="#1-2-1-精益思想" class="headerlink" title="1.2.1 精益思想"></a>1.2.1 精益思想</h3><p>《精益创业》核心思想：开发新产品时，先做出一个简单的原型–最小化可行产品（Minimum Viable Product, MVP）,这个原型的目标并不是生产出一个完美的产品，而是为了验证自己心中的商业假设。得到用户的真实反馈后，从每次实验的结果中学习，再快速迭代，持续修正，在资源耗尽前从迷雾中找到通往成功的道路，最终适应市场需求。<br>业务生产中的活动：增加产品价值；不增加产品价值（即为<strong>浪费</strong>），持续不断的优化和通过反馈改进，就是要尽最大可能消除浪费</p><h3 id="1-2-2-双环模型"><a href="#1-2-2-双环模型" class="headerlink" title="1.2.2 双环模型"></a>1.2.2 双环模型</h3><p>图片<br>“持续交付2.0”是一种产品研发管理思维框架。它将精益创业与持续交付1.0相结合<br>不仅关注快速开发软件功能，同时还关注我们所交付软件的业务性正确，以及如何以有限资源快速验证和解决业务问题。也就是说，不断探索发现真正要解决的业务问题，提出科学的目标，设计最小解决方案。通过快速实现解决方案并从真实反馈中收集数据，已验证该问题是否得以解决。这是一个从业务问题出发，到业务问题解决的完整业务闭环，简称为持续交付“8”字环。  </p><h3 id="1-2-3-4个核心原则"><a href="#1-2-3-4个核心原则" class="headerlink" title="1.2.3 4个核心原则"></a>1.2.3 4个核心原则</h3><ol><li><strong>坚持少做</strong><br>我们应当抵住“通过大量计划来构建最佳功能”的诱惑，坚持少做，想办法对新创意尽早验证。</li><li><strong>持续分解问题</strong>  </li><li><strong>坚持快速反馈</strong><br>通过快速反馈，我们才能尽早了解所完成工作的质量和效果</li><li><strong>持续改进并衡量</strong><br>解决问题前，先想好衡量问题是否解决的方法，以便反应改进成功与否<h2 id="1-3-小结"><a href="#1-3-小结" class="headerlink" title="1.3 小结"></a>1.3 小结</h2>强调以业务为导向，从一开始就将业务问题进行分解，并通过不断地科学探索与快速验证，减少浪费的同时，快速找到正确的前进方向</li></ol><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> CI/CD </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CI/CD </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> hexo-theme-matery </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

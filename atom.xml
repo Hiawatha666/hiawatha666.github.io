@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hiawatha Blog</title>
+  
+  <subtitle>读万卷书，行万里路</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hiawatha.github.io/"/>
+  <updated>2019-11-19T13:34:24.812Z</updated>
+  <id>https://hiawatha.github.io/</id>
+  
+  <author>
+    <name>Rain</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://hiawatha.github.io/2019/11/19/wen-gu-zhi-xin-ji-suan-ji-ji-chu-yi/"/>
+    <id>https://hiawatha.github.io/2019/11/19/wen-gu-zhi-xin-ji-suan-ji-ji-chu-yi/</id>
+    <published>2019-11-19T13:34:24.811Z</published>
+    <updated>2019-11-19T13:34:24.812Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#温故知新-计算机基础（一）&lt;br&gt;##计算机发展历史&lt;br&gt;##计算机分类&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+      
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://hiawatha.github.io/2019/11/19/nai-you-mo-gu-tang/"/>
+    <id>https://hiawatha.github.io/2019/11/19/nai-you-mo-gu-tang/</id>
+    <published>2019-11-19T13:34:24.810Z</published>
+    <updated>2019-11-19T13:34:24.811Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#奶油蘑菇汤&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) {
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hiawatha.github.io/2019/11/19/hello-world/"/>
+    <id>https://hiawatha.github.io/2019/11/19/hello-world/</id>
+    <published>2019-11-19T13:34:24.808Z</published>
+    <updated>2019-11-19T13:34:24.809Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第四章 持续交付2.0的组织文化</title>
+    <link href="https://hiawatha.github.io/2019/09/19/cd2.0-chapter-4/"/>
+    <id>https://hiawatha.github.io/2019/09/19/cd2.0-chapter-4/</id>
+    <published>2019-09-19T13:00:00.000Z</published>
+    <updated>2019-12-01T03:33:50.076Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第四章-持续交付2-0的组织文化&quot;&gt;&lt;a href=&quot;#第四章-持续交付2-0的组织文化&quot; class=&quot;headerlink&quot; title=&quot;第四章 持续交付2.0的组织文化&quot;&gt;&lt;/a&gt;第四章
+        
+      
+    
+    </summary>
+    
+    
+      <category term="CD" scheme="https://hiawatha.github.io/categories/CD/"/>
+    
+    
+      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第三章 快速验证环</title>
+    <link href="https://hiawatha.github.io/2019/09/12/cd2.0-chapter-3/"/>
+    <id>https://hiawatha.github.io/2019/09/12/cd2.0-chapter-3/</id>
+    <published>2019-09-12T12:00:00.000Z</published>
+    <updated>2019-12-01T03:33:50.074Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第三章-快速验证环&quot;&gt;&lt;a href=&quot;#第三章-快速验证环&quot; class=&quot;headerlink&quot; title=&quot;第三章 快速验证环&quot;&gt;&lt;/a&gt;第三章 快速验证环&lt;/h1&gt;&lt;h2 id=&quot;3-1-验证环的目标&quot;&gt;&lt;a href=&quot;#3-1-验证环的目标&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="CD" scheme="https://hiawatha.github.io/categories/CD/"/>
+    
+    
+      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
+    
+      <category term="Hexo" scheme="https://hiawatha.github.io/tags/Hexo/"/>
+    
+      <category term="hexo-theme-matery" scheme="https://hiawatha.github.io/tags/hexo-theme-matery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第二章 价值探索环</title>
+    <link href="https://hiawatha.github.io/2019/09/07/cd2.0-chapter-2/"/>
+    <id>https://hiawatha.github.io/2019/09/07/cd2.0-chapter-2/</id>
+    <published>2019-09-07T11:00:00.000Z</published>
+    <updated>2019-11-25T12:54:30.688Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第二章-价值探索环&quot;&gt;&lt;a href=&quot;#第二章-价值探索环&quot; class=&quot;headerlink&quot; title=&quot;第二章 价值探索环&quot;&gt;&lt;/a&gt;第二章 价值探索环&lt;/h1&gt;&lt;p&gt;关键词：“如何发现和识别客户的真正需求”&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="CD" scheme="https://hiawatha.github.io/categories/CD/"/>
+    
+    
+      <category term="Hexo" scheme="https://hiawatha.github.io/tags/Hexo/"/>
+    
+      <category term="hexo-theme-matery" scheme="https://hiawatha.github.io/tags/hexo-theme-matery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一章 持续交付2.0</title>
+    <link href="https://hiawatha.github.io/2019/09/05/cd2.0-chapter-1/"/>
+    <id>https://hiawatha.github.io/2019/09/05/cd2.0-chapter-1/</id>
+    <published>2019-09-05T05:34:00.000Z</published>
+    <updated>2019-12-01T03:33:50.072Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第一章-持续交付2-0&quot;&gt;&lt;a href=&quot;#第一章-持续交付2-0&quot; class=&quot;headerlink&quot; title=&quot;第一章 持续交付2.0&quot;&gt;&lt;/a&gt;第一章
+        
+      
+    
+    </summary>
+    
+    
+      <category term="CI/CD" scheme="https://hiawatha.github.io/categories/CI-CD/"/>
+    
+    
+      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
+    
+      <category term="Hexo" scheme="https://hiawatha.github.io/tags/Hexo/"/>
+    
+      <category term="hexo-theme-matery" scheme="https://hiawatha.github.io/tags/hexo-theme-matery/"/>
+    
+  </entry>
+  
+</feed>
