@@ -94,6 +94,60 @@
   </entry>
   
   <entry>
+    <title>第六章 业务需求协作管理</title>
+    <link href="https://hiawatha.github.io/2019/09/27/cd2.0-chapter-6/"/>
+    <id>https://hiawatha.github.io/2019/09/27/cd2.0-chapter-6/</id>
+    <published>2019-09-27T14:00:00.000Z</published>
+    <updated>2020-02-16T09:29:30.230Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第六章-业务需求协作管理&quot;&gt;&lt;a href=&quot;#第六章-业务需求协作管理&quot; class=&quot;headerlink&quot; title=&quot;第六章 业务需求协作管理&quot;&gt;&lt;/a&gt;第六章 业务需求协作管理&lt;/h1&gt;&lt;p&gt;一款产品的整个生命周期可以分为5个阶段： 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="CD" scheme="https://hiawatha.github.io/categories/CD/"/>
+    
+    
+      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第五章 持续交付的软件系统架构</title>
+    <link href="https://hiawatha.github.io/2019/09/25/cd2.0-chapter-5/"/>
+    <id>https://hiawatha.github.io/2019/09/25/cd2.0-chapter-5/</id>
+    <published>2019-09-25T13:00:00.000Z</published>
+    <updated>2020-02-16T09:29:30.220Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第五章-持续交付的软件系统架构&quot;&gt;&lt;a href=&quot;#第五章-持续交付的软件系统架构&quot; class=&quot;headerlink&quot; title=&quot;第五章 持续交付的软件系统架构&quot;&gt;&lt;/a&gt;第五章
+        
+      
+    
+    </summary>
+    
+    
+      <category term="CD" scheme="https://hiawatha.github.io/categories/CD/"/>
+    
+    
+      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第四章 持续交付2.0的组织文化</title>
     <link href="https://hiawatha.github.io/2019/09/19/cd2.0-chapter-4/"/>
     <id>https://hiawatha.github.io/2019/09/19/cd2.0-chapter-4/</id>
@@ -143,11 +197,11 @@
       <category term="CD" scheme="https://hiawatha.github.io/categories/CD/"/>
     
     
-      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
-    
       <category term="Hexo" scheme="https://hiawatha.github.io/tags/Hexo/"/>
     
       <category term="hexo-theme-matery" scheme="https://hiawatha.github.io/tags/hexo-theme-matery/"/>
+    
+      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
     
   </entry>
   
@@ -204,11 +258,11 @@
       <category term="CI/CD" scheme="https://hiawatha.github.io/categories/CI-CD/"/>
     
     
-      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
-    
       <category term="Hexo" scheme="https://hiawatha.github.io/tags/Hexo/"/>
     
       <category term="hexo-theme-matery" scheme="https://hiawatha.github.io/tags/hexo-theme-matery/"/>
+    
+      <category term="CI/CD" scheme="https://hiawatha.github.io/tags/CI-CD/"/>
     
   </entry>
   
